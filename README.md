@@ -12,7 +12,7 @@ A XML-RPC integrated server and client programs to enable end-users encode perso
 **How to Install Server.py and Client.py**:
 
 - Download repository ZIP.
-- Run files on local rich text editor. \
+- Run files on local rich text editor. 
 
 
 ## Technologies Used
